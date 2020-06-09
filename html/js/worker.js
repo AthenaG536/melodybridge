@@ -78,4 +78,4 @@ function sendMsg(msg){
             });
         });
     });
-}
+};
